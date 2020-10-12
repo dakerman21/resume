@@ -98,3 +98,10 @@ margin: 10px 0px 10px 0px;
   align-items: center;
   margin-top: 20px 0px 0px 0px;
 }
+
+.top {
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
