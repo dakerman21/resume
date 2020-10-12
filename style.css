@@ -33,16 +33,18 @@ strong {
 }
 /*experience */
 .sectionheader {
-  margin-top: 20px
-  margin-bottom:10px
+  margin-top: 20px;
+  margin-bottom:10px;
   margin-left:0;
   margin-right:0;
   width: 70%;
   min-width: 300px;
   font-size: 1.5em;
   text-transform: uppercase;
-  color:#fff ;
-  background-color: #33485e
+  color:#fff;
+  background-color: #33485e;
+  padding-left: 10px;
+  font-weight: 300;
 }
 /*job title */
 .jobtitle {
@@ -52,12 +54,14 @@ strong {
 /*company name */
 .organization {
   font-size: 1.25em;
+  font-weight: lighter;
 }
 /* job dates */
 .date {
   margin: 2px 0px 0px 0px;
   font-style: italic;
   font-size: 1em;
+  font-weight:lighter;
 }
 /*contact info, skills, education */
 li {
@@ -71,6 +75,7 @@ li {
 /*i added a style.css for the description in the paragraph elements */
 .description {
 margin: 10px 0px 10px 0px;
+font-weight: lighter;
 }
 
 .menu {
@@ -103,6 +108,10 @@ margin: 10px 0px 10px 0px;
   font-weight: 600;
   align-items: center;
   margin-top: 20px 0px 0px 0px;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  color: #33485e;
+  text-align: center;
 }
 
 .top {
@@ -110,5 +119,10 @@ margin: 10px 0px 10px 0px;
   min-width: 300px;
   margin: 0 auto;
   margin-bottom: 30px;
+  text-align: left;
+}
+
+.toptitle {
   text-align: center;
+  margin-bottom: 0px;
 }
