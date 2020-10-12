@@ -76,6 +76,12 @@ margin: 10px 0px 10px 0px;
 .menu {
   margin: 0px;
   align-items: center;
+  padding: 0px;
+  list-style-type: none;
+  text-align: center;
+}
+
+.menu li {
   display: inline;
 }
 
@@ -104,4 +110,5 @@ margin: 10px 0px 10px 0px;
   min-width: 300px;
   margin: 0 auto;
   margin-bottom: 30px;
+  text-align: center;
 }
