@@ -26,12 +26,9 @@ body {
   color: #33485e;
 }
 /*my title */
-strong {
-  font-size:1.5em;
-  text-transform:uppercase;
-  color:#33485e
-}
+
 /*experience */
+
 .sectionheader {
   margin-top: 20px;
   margin-bottom:10px;
