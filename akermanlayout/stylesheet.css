@@ -1,0 +1,31 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+#headline {
+font-size: 25px;
+font-family: helvetica,sans-serif;
+
+}
+
+#masthead {
+  font-family: "timesnewroman", times, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  font-style: italic;
+}
+
+#byline {
+  font-family: helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+body{
+  font-family: georgia,serif;
+  font-size: 13px;
+}
