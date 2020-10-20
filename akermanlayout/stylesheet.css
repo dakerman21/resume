@@ -3,10 +3,10 @@
   width: 900px;
 }
 
-#headline {
-font-size: 25px;
+h1  {
+font-size: 30px;
 font-family: helvetica,sans-serif;
-
+text-align: center;
 }
 
 #masthead {
