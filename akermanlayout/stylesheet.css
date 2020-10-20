@@ -29,3 +29,13 @@ body{
   font-family: georgia,serif;
   font-size: 13px;
 }
+
+#caption {
+  color: black;
+  margin: 0px 0px 0px 0px;
+}
+
+#credits {
+  color: grey;
+  font-style: italic;
+}
