@@ -35,7 +35,7 @@ body{
 
 #caption {
   color: black;
-  margin: 0px 0px 0px 0px;
+  margin-top: 0px;
 }
 
 #credits {
@@ -68,4 +68,14 @@ blockquote {
   border-left: 5px solid #ccc;
   border-right: 5px solid #ccc;
   margin-right: 50px;
+}
+
+#hopespacecraft {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#gifdescription {
+  color: grey;
+  margin-top: 5px;
 }
