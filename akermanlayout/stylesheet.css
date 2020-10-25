@@ -7,6 +7,9 @@ h1  {
 font-size: 30px;
 font-family: helvetica,sans-serif;
 text-align: center;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 5px;
 }
 
 #masthead {
@@ -38,4 +41,25 @@ body{
 #credits {
   color: grey;
   font-style: italic;
+}
+
+#readmore {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 0px;
+}
+
+img {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+#readmore2 {
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  font-family: georgia;
+  font-weight: lighter;
+  margin-right: 90px;
+  margin-left: 90px;
 }
