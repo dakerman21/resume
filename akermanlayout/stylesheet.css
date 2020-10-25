@@ -5,7 +5,7 @@
 
 h1  {
 font-size: 30px;
-font-family: helvetica,sans-serif;
+font-family: "timesnewroman",sans-serif;
 text-align: center;
 margin-left: 10px;
 margin-right: 10px;
@@ -62,4 +62,15 @@ img {
   font-weight: lighter;
   margin-right: 90px;
   margin-left: 90px;
+}
+
+blockquote {
+  font-size: 30px;
+  font-family: georgia,"timesnewroman",helvetica;
+  margin-left: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-left: 5px solid #ccc;
+  border-right: 5px solid #ccc;
+  margin-right: 50px;
 }
